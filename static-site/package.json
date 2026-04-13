@@ -1,0 +1,9 @@
+{
+  "name": "static-site",
+  "scripts": {
+    "build": "parcel build index.html --dist-dir dist --public-url ./"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
